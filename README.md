@@ -10,3 +10,5 @@ introduced now.
 By the way, you need Android Studio 3.6+ to try out View Binding 
 
 ## Basically ViewBinding can be called a subset of DataBinding
+
+[Read More](https://medium.com/@sayanporya/the-all-new-view-binding-in-android-2863a7aca45f)
